@@ -1,10 +1,8 @@
-## Codility Challenges.
+## Codility Challenges
 
 This is the list of my attempts to Codility Challenges with links to detailed solution.
 
-###
-### Awards
-###
+
 
 - **Niobium 2019 Challenge**
   - ![#efc415](https://placehold.it/15/efc415/000000?text=+) Golden Award
