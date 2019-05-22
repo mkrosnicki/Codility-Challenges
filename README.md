@@ -1,7 +1,7 @@
-## List of my attempts to Codility Challenges.
+### List of my attempts to Codility Challenges.
 
 
-- **Niobium 2019 Challenge**
+#### **Niobium 2019 Challenge**
   - ![#efc415](https://placehold.it/15/efc415/000000?text=+) Golden Award
   - [See certificate](https://app.codility.com/cert/view/cert4NQKRK-7JB46DVN9GD7GRMP/?fbclid=IwAR2ogCWku_EPL9ItR3NputI4xgR0AJYD-30dIX6tpekldh9rfVnX_y8qiHE)
 
