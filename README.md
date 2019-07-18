@@ -6,7 +6,7 @@ This is the list of my attempts to Codility Challenges with links to detailed so
 
 **Molybdenum 2019 Challenge**
   - ![#efc415](https://placehold.it/15/efc415/000000?text=+) Golden Award
-  - [See certificate]https://app.codility.com/cert/view/certT7N6ED-WTYVBWUSB99CU5ME/
+  - [See certificate](https://app.codility.com/cert/view/certT7N6ED-WTYVBWUSB99CU5ME/)
 
 - **Niobium 2019 Challenge**
   - ![#efc415](https://placehold.it/15/efc415/000000?text=+) Golden Award
