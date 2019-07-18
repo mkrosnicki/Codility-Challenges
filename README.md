@@ -1,6 +1,6 @@
 ## Codility Challenges
 
-This is the list of my attempts to Codility Challenges with links to detailed solution.
+This is the list of my attempts to Codility Challenges with links to detailed solutions.
 
 #
 
