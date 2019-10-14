@@ -3,10 +3,13 @@
 This is the list of my attempts to Codility Challenges with links to detailed solutions.
 
 #
+- **Technetium 2019 Challenge**
+  - ![#efc415](https://placehold.it/15/efc415/000000?text=+) Golden Award
+  - challenge still active, will be shown when next challenge is announced
 
 - **Molybdenum 2019 Challenge**
   - ![#efc415](https://placehold.it/15/efc415/000000?text=+) Golden Award
-  - challenge still active, will be shown when next challenge is announced
+  - [See certificate](https://app.codility.com/cert/view/certT7N6ED-WTYVBWUSB99CU5ME/)
 
 - **Niobium 2019 Challenge**
   - ![#efc415](https://placehold.it/15/efc415/000000?text=+) Golden Award
@@ -24,4 +27,3 @@ This is the list of my attempts to Codility Challenges with links to detailed so
   - ![#c4c3ba](https://placehold.it/15/c4c3ba/000000?text=+) Silver Award
   - [See certificate](https://app.codility.com/cert/view/certQ3T2H4-WZ6SJV9VYYJ8NVD4/)
   
-
